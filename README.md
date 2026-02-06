@@ -108,7 +108,7 @@ Instead of asking users to manually answer each question, the application analyz
 
 ### Q6: Subsidy, Financial Assistance, and Government Grant
 
-| Question                                                     | Field Name                                     | Data Source | Extraction Logic |
+| Question                                                     | Field Name                                     | Data Source | Extraction Logic                    |
 | Breakdown of subsidy, financial assistance, government grant | `subsidyFinancialAssistanceAndGovernmentGrant` | Manual      | Not extractable - user must provide |
 
 ---
