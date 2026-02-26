@@ -1,0 +1,43 @@
+[{
+    "section": "Basic Info",
+    "question": "Financial year end date",
+    "value": "N/A",
+    "expected_value": "31 December 2023",
+    "comment": "it shows in cell A2"
+},
+{
+    "section": "Offshore Claim",
+    "question": "Profits nature (trading/services)",
+    "value": "services",
+    "expected_value": "N/A",
+    "comment": "There is no offshore claim at all, so no need to answer this question"
+},
+{
+    "section": "Local Individual Payment",
+    "question": "Individual acted as?",
+    "value": "N/A",
+    "expected_value": "Yes",
+    "comment": "Commission, cell A80, is likely to be paid to a local individual"
+},
+{
+    "section": "Non-Capitalized Fixed Assets",
+    "question": "Any non-capitalized fixed assets?",
+    "value": "No",
+    "expected_value": "Yes",
+    "comment": "Furniture and Fixtures is found at TB, cell A22"
+},
+{
+    "section": "Non-Resident Associated Persons",
+    "question": "Transactions with non-resident associated persons?",
+    "value": "No",
+    "expected_value": "Yes or no",
+    "comment": "Intercompanies are found at TB, cell A31 A32 and A40, TB usually does not indicate the nature of the residency"
+},
+{
+    "section": "Long Outstanding Account Receivable",
+    "question": "Long outstanding AR from related party?",
+    "value": "No",
+    "expected_value": "Yes or no",
+    "justification": "AR from related party are found at TB, cell A31 and A32, just no sure whether it is long outstanding or not"
+}
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "section": "FIHV/FSPE/ESF Office",
+        "question": "Assessable profits",
+        "field": "familyProfit",
+        "value": "-2224382.41",
+        "expected_value": "N/A",
+        "comment": "the company is not a FIHV/FSPE/ESF Office, so no need to answer this question"
+    },
+    {
+        "section": "Unrealized Revaluation Gains - Capital Nature",
+        "question": "Record unrealized gains (capital)?",
+        "field": "hasUnrealizedGainsCapital",
+        "value": "No",
+        "expected_value": "Yes",
+        "Comment": "Fair value loss on investment property of -800000 is found at TB, cell A78. Negative amount means gains."
+    },
+    {
+        "section": "Unrealized Revaluation Gains - Capital Nature",
+        "question": "Amount",
+        "field": "unrealizedRevaluationGainsAmountCapital",
+        "value": "0",
+        "expected_value": "800000",
+        "comment": "Fair value loss on investment property of -800000 is found at TB, cell A78. Negative amount means gains."
+    },
+    {
+        "section": "Unrealized Revaluation Gains - Capital Nature",
+        "question": "Capital asset description",
+        "field": "unrealizedRevaluationGainsAssetCapital",
+        "value": "N/A",
+        "expected_value": "Investment Property",
+        "comment": "Fair value loss on investment property of -800000 is found at TB, cell A78. Negative amount means gains."
+    },
+    {
+        "section": "Local Individual Payment",
+        "question": "Make payment to local individual (non-employee)?",
+        "field": "makeLocalIndividualPayment",
+        "value": "No",
+        "expected_value": "Yes or no",
+        "comment": "Commissio paid, cell A76, is likely to be paid to a local individual even though it is not the case this time."
+    },
+    {
+        "section": "Non-Capitalized Fixed Assets",
+        "question": "Any non-capitalized fixed assets?",
+        "field": "hasNonCapitalFixedAsset",
+        "value": "No",
+        "expected_value": "Yes ",
+        "Comment": "Plant, property and equipment is found at TB, cell A17"
+    },
+    {
+        "section": "Q22",
+        "question": "Non-Taxable Capital Items",
+        "field": "nonTaxableCapitalItems",
+        "value": "N/A",
+        "expected_value": {
+            "breakdown": "Fair value loss on investment properties",
+            "amount": "800000",
+            "isCapitalNature": true
+        },
+        "comment": "Fair value loss on investment property of -800000 is found at TB, cell A78. Negative amount means gains."
+    },
+    {
+        "section": "Basic Info",
+        "question": "Financial year end date",
+        "field": "endDate",
+        "value": "N/A",
+        "expected_value": "31 December 2023",
+        "comment": "Cell A2"
+      }
+]

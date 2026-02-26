@@ -1,0 +1,50 @@
+[
+    {
+        "section": "Q4: Sundry Income",
+        "question": "Breakdown of sundry income",
+        "field": "sundryIncome",
+        "value": "{\"Handling fees\": 150.8, \"Sundry income / Other income\": 6471.43, \"Dividend income\": 150396.53}",
+        "expected_value": "{\"Handling fees\": 150.8, \"Sundry income / Other income\":  13430.46, \"Dividend income\": 143437.5}",
+        "comment": "Corporate Action charge dividend collect is not equal to Dividend income"
+    },
+    {
+        "section": "Q5: Gain on Foreign Exchange Contracts Trading",
+        "question": "Purpose of foreign exchange contracts",
+        "field": "purpose",
+        "value": "hedging",
+        "expected_value": "N/A",
+        "comment": "given the amount is only HKD71.29, the chance of hedging is very low. Also this is loss and not gain."
+      },
+      {
+        "section": "Q21",
+        "question": "Dividend Income",
+        "field": "dividendIncome",
+        "value": "150396.53",
+        "expected_value": "143437.5",
+        "comment": "Corporate Action charge dividend collect is not equal to Dividend income"
+      },
+      {
+        "section": "Basic Info",
+        "question": "Financial year end date",
+        "field": "endDate",
+        "value": "N/A",
+        "expected_value": "31 December 2023",
+        "comment": "Cell A2"
+      },
+      {
+        "section": "Unrealized Revaluation Losses - Trading Securities",
+        "question": "Record unrealized losses (trading)?",
+        "field": "hasUnrealizedLossesTrading",
+        "value": "No",
+        "expected_value": "Yes",
+        "comment": "Cell A67"
+      },
+      {
+        "section": "Unrealized Revaluation Losses - Trading Securities",
+        "question": "Amount",
+        "field": "unrealizedRevaluationLossAmountTrading",
+        "value": "0",
+        "expected_value": "2077405.00",
+        "comment": "Cell A67"
+      }
+]
