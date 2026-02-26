@@ -1,0 +1,457 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "standard": "Non-current assets - Investment property at fair value through profit or loss",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Investment property at fair value through profit or loss",
+      "amount": 122200000.0,
+      "id": 2014,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Investment in properties (amount is negative)",
+          "amount": 122200000.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Property, Plant and Equipment, Leasehold land and building",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Property, Plant and Equipment, Leasehold land and building",
+      "amount": 115941.0,
+      "id": 2023,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Plant, property and equipment (amount is negative)",
+          "amount": 115941.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Deposit",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Deposit",
+      "amount": 43498.44,
+      "id": 3010,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Deposit (amount is negative)",
+          "amount": 43498.44
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Prepayment",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Prepayment",
+      "amount": 63848.66,
+      "id": 3015,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Prepayment (amount is negative)",
+          "amount": 63848.66
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Cash and bank balances",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Cash and bank balances",
+      "amount": 855395.51,
+      "id": 3009,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Cash and bank balances (amount is negative)",
+          "amount": 855395.51
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Accruals",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Accruals",
+      "amount": -37850.0,
+      "id": 4001,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Accruals (amount is positive)",
+          "amount": -37850.0
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Tax payables",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Tax payables",
+      "amount": -130181.0,
+      "id": 4017,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Tax payables (amount is positive)",
+          "amount": -130181.0
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Amount due to holding co, current",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Amount due to holding co, current",
+      "amount": -52864237.02,
+      "id": 4005,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Amount due to ultimate holding co (amount is positive)",
+          "amount": -52864237.02
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Deposit received",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Deposit received",
+      "amount": -312000.0,
+      "id": 4010,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Deposit received (amount is positive)",
+          "amount": -312000.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current liabilities - Other non-current payables",
+      "standard_category": "Non-current liabilities",
+      "standard_parent_category": "Non-current liabilities",
+      "standard_field": "Other non-current payables",
+      "amount": -268800.0,
+      "id": 5008,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-Current liabilities > Deposits received (amount is positive)",
+          "amount": -268800.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current liabilities - Deferred tax liabilities",
+      "standard_category": "Non-current liabilities",
+      "standard_parent_category": "Non-current liabilities",
+      "standard_field": "Deferred tax liabilities",
+      "amount": -732282.0,
+      "id": 5005,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-Current liabilities > Deferred tax liabilities (amount is positive)",
+          "amount": -732282.0
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Share capital",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Share capital",
+      "amount": -1000000.0,
+      "id": 6002,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > Share capital (amount is positive)",
+          "amount": -1000000.0
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Retained Earning",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Retained Earning",
+      "amount": -67933333.59,
+      "id": 6001,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > (Retained profit) / acc. loss b/f (amount is positive)",
+          "amount": -65560022.06
+        },
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > (Profit) / Loss for the period (amount is positive)",
+          "amount": -2373311.5300000003
+        }
+      ]
+    },
+    {
+      "standard": "Income - Rental income for immovable assets in Hong Kong",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Rental income for immovable assets in Hong Kong",
+      "amount": -2442682.41,
+      "id": 7020,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Turnover > Rental income (amount is positive)",
+          "amount": -2442682.41
+        }
+      ]
+    },
+    {
+      "standard": "Income - Hong Kong bank interest income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Hong Kong bank interest income",
+      "amount": -25431.19,
+      "id": 7016,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Other revenue > Bank interest income (amount is positive)",
+          "amount": -25431.19
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Auditor's remuneration",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Auditor's remuneration",
+      "amount": 30000.0,
+      "id": 9004,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Auditor's remuneration (amount is negative)",
+          "amount": 30000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Bank charges",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Bank charges",
+      "amount": 760.0,
+      "id": 9007,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Bank charge (amount is negative)",
+          "amount": 760.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Building management fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Building management fee",
+      "amount": 340616.0,
+      "id": 9008,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Building management fee (amount is negative)",
+          "amount": 340616.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Business registration fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Business registration fee",
+      "amount": 2255.0,
+      "id": 9009,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Business registration fee (amount is negative)",
+          "amount": 2255.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Commission expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Commission expenses",
+      "amount": 69400.0,
+      "id": 9011,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Commission paid (amount is negative)",
+          "amount": 69400.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Depreciation for other assets",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Depreciation for other assets",
+      "amount": 25574.0,
+      "id": 9017,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Depreciation (amount is negative)",
+          "amount": 25574.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Loss from financial assets at fair value through profit and loss",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Loss from financial assets at fair value through profit and loss",
+      "amount": -800000.0,
+      "id": 9050,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Fair value loss on investment properties (amount is positive)",
+          "amount": -800000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Insurance",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Insurance",
+      "amount": 21603.58,
+      "id": 9039,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Insurance expense (amount is negative)",
+          "amount": 21603.58
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Legal and professional fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Legal and professional fee",
+      "amount": 12250.0,
+      "id": 9046,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Legal and professional fee (amount is negative)",
+          "amount": 12250.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Office supplies",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Office supplies",
+      "amount": 550.0,
+      "id": 9064,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Office expenses (amount is negative)",
+          "amount": 550.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Rent and rates",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Rent and rates",
+      "amount": 139732.0,
+      "id": 9070,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Rent and rates (amount is negative)",
+          "amount": 139732.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Repairs and maintenance",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Repairs and maintenance",
+      "amount": 16865.0,
+      "id": 9072,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Repairs and maintenances (amount is negative)",
+          "amount": 16865.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Stamp duty, property transaction",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Stamp duty, property transaction",
+      "amount": 4668.0,
+      "id": 9081,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Stamp duty (amount is negative)",
+          "amount": 4668.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Sundry expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Sundry expenses",
+      "amount": 4524.0,
+      "id": 9086,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Sundry expenses (amount is negative)",
+          "amount": 4524.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Electricity and water",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Electricity and water",
+      "amount": 35376.49,
+      "id": 9095,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Utility (amount is negative)",
+          "amount": 35376.49
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Tax expense (Hong Kong Profit Tax)",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Tax expense (Hong Kong Profit Tax)",
+      "amount": 90225.0,
+      "id": 9087,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Taxation > Income tax (credit) / expense (amount is negative)",
+          "amount": 90225.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Deferred Tax expense",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Deferred Tax expense",
+      "amount": 100403.0,
+      "id": 9016,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Taxation > Deferred Tax (amount is negative)",
+          "amount": 100403.0
+        }
+      ]
+    }
+  ]
+}

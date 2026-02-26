@@ -1,0 +1,18 @@
+Diff Report: giant_credit / xlsx
+Generated: 2026-02-24T22:06:48.484279
+Previous run: 51 items
+Current run:  50 items
+Matched:      48
+Stability:    94.1%
+
+CHANGED (1):
+  [BALANCE SHEET > Current assets > Trade and other receivables (amount is negative)] amount=154408220.0
+    was: Current assets - Account receivables (Current assets)
+    now: Current assets - Other receivables (Current assets)
+
+ADDED (1):
+  + Current liabilities - Other current payables (Current liabilities) amount=-22771439.17
+
+REMOVED (2):
+  - Current liabilities - Finance lease liabilities, current (Current liabilities) amount=-300000.0
+  - Current liabilities - Other current payables (Current liabilities) amount=-22471439.17

@@ -1,0 +1,591 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "standard": "Current assets - Deposit",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Deposit",
+      "amount": 200000.0,
+      "id": 3010,
+      "breakdown": [
+        {
+          "original": "NON-CURRENT ASSETS > ADMISSION FEE DEPOSIT (amount is negative)",
+          "amount": 50000.0
+        },
+        {
+          "original": "NON-CURRENT ASSETS > COMPENSATION FUND DEPOSIT (amount is negative)",
+          "amount": 50000.0
+        },
+        {
+          "original": "NON-CURRENT ASSETS > FIDELITY FUND DEPOSIT (amount is negative)",
+          "amount": 50000.0
+        },
+        {
+          "original": "NON-CURRENT ASSETS > GUARANTEE FUND DEPOSIT (amount is negative)",
+          "amount": 50000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Stamp duty, transfer of shares",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Stamp duty, transfer of shares",
+      "amount": 5000.0,
+      "id": 9083,
+      "breakdown": [
+        {
+          "original": "NON-CURRENT ASSETS > STAMP DUTY DEPOSIT (amount is negative)",
+          "amount": 5000.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Account receivables",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Account receivables",
+      "amount": 20772262.05,
+      "id": 3001,
+      "breakdown": [
+        {
+          "original": "CURRENT ASSETS > Trade receivable (amount is negative)",
+          "amount": 20772262.05
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Investments in financial assets",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Investments in financial assets",
+      "amount": 7478060.0,
+      "id": 2016,
+      "breakdown": [
+        {
+          "original": "CURRENT ASSETS > Financial assets at fair value through profit or loss (amount is negative)",
+          "amount": 7478060.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Prepayment",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Prepayment",
+      "amount": 90493.26,
+      "id": 3015,
+      "breakdown": [
+        {
+          "original": "CURRENT ASSETS > Prepayment (amount is negative)",
+          "amount": 90493.26
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Cash and bank balances",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Cash and bank balances",
+      "amount": 40176830.79,
+      "id": 3009,
+      "breakdown": [
+        {
+          "original": "CURRENT ASSETS > Cash and bank balances (amount is negative)",
+          "amount": 40176830.79
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Trade current payables",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Trade current payables",
+      "amount": -2008382.76,
+      "id": 4019,
+      "breakdown": [
+        {
+          "original": "CURRENT LIABILITIES > Trade payable (amount is positive)",
+          "amount": -2008382.76
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Other current payables",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Other current payables",
+      "amount": -295632.66,
+      "id": 4013,
+      "breakdown": [
+        {
+          "original": "CURRENT LIABILITIES > Other payable (amount is positive)",
+          "amount": -295632.66
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Amount due to related co, current",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Amount due to related co, current",
+      "amount": -1543421.61,
+      "id": 4003,
+      "breakdown": [
+        {
+          "original": "CURRENT LIABILITIES > Amounts due to related companies (amount is positive)",
+          "amount": -1543421.61
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Share capital",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Share capital",
+      "amount": -100000000.0,
+      "id": 6002,
+      "breakdown": [
+        {
+          "original": "CAPITAL AND RESERVES > Share Capital (amount is positive)",
+          "amount": -100000000.0
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Retained Earning",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Retained Earning",
+      "amount": 35124790.93,
+      "id": 6001,
+      "breakdown": [
+        {
+          "original": "CAPITAL AND RESERVES > Retained earning b/f (amount is negative)",
+          "amount": 31869307.959999997
+        },
+        {
+          "original": "CAPITAL AND RESERVES > (Profit) / Loss for the period (amount is negative)",
+          "amount": 3255482.9700000007
+        }
+      ]
+    },
+    {
+      "standard": "Income - Loan interest income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Loan interest income",
+      "amount": -1122868.7699999996,
+      "id": 7018,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > REVENUE > Interest income - Client (amount is positive)",
+          "amount": -1122868.7699999996
+        }
+      ]
+    },
+    {
+      "standard": "Income - Commission income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Commission income",
+      "amount": -223631.19999999998,
+      "id": 7002,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > REVENUE > Brokerage income HKD (amount is positive)",
+          "amount": -223631.19999999998
+        }
+      ]
+    },
+    {
+      "standard": "Income - Handling fees",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Handling fees",
+      "amount": -150.8,
+      "id": null,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Handling Income (amount is positive)",
+          "amount": -30.8
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Corporate Action charge handling fee (amount is positive)",
+          "amount": -120.0
+        }
+      ]
+    },
+    {
+      "standard": "Income - Sundry income / Other income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Sundry income / Other income",
+      "amount": -6471.43,
+      "id": 7030,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Corporate Action charge (amount is positive)",
+          "amount": -83.6
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Corporate Action charge scrip fee (amount is positive)",
+          "amount": -1176.0
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > CCASS Stock Settlement Income (amount is positive)",
+          "amount": -5211.83
+        }
+      ]
+    },
+    {
+      "standard": "Income - Dividend income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Dividend income",
+      "amount": -150396.53,
+      "id": 7007,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Corporate Action charge dividend collect (amount is positive)",
+          "amount": -6959.03
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Dividend income (amount is positive)",
+          "amount": -143437.5
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Loss from financial assets at fair value through profit and loss",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Loss from financial assets at fair value through profit and loss",
+      "amount": 2197026.15,
+      "id": 9050,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Loss on disposal of financial assets at fair value through profit or loss (amount is negative)",
+          "amount": 119621.1545977011
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Fair value loss on financial assets at fair value through profit or loss (amount is negative)",
+          "amount": 2077404.9954022989
+        }
+      ]
+    },
+    {
+      "standard": "Income - Hong Kong bank interest income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Hong Kong bank interest income",
+      "amount": -964471.67,
+      "id": 7016,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER INCOME > Interest income - Bank (HKD) (amount is positive)",
+          "amount": -964471.67
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Staff salaries",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Staff salaries",
+      "amount": 579158.52,
+      "id": 9078,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Salaries (amount is negative)",
+          "amount": 579158.52
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Mandatory provident fund contribution",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Mandatory provident fund contribution",
+      "amount": 27427.940000000002,
+      "id": 9053,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Contribution to Mandatory Provident Fund (amount is negative)",
+          "amount": 27427.940000000002
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Consultancy fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Consultancy fee",
+      "amount": 20000.0,
+      "id": 9015,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Consulting Fee (amount is negative)",
+          "amount": 20000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Director remuneration",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Director remuneration",
+      "amount": 642000.0,
+      "id": 9028,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Director's Remuneration (amount is negative)",
+          "amount": 642000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Insurance",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Insurance",
+      "amount": 2554.4,
+      "id": 9039,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Labour insurance (amount is negative)",
+          "amount": 2554.4
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Computer & networking",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Computer & networking",
+      "amount": 959938.7100000001,
+      "id": 9073,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Information technology expenses (amount is negative)",
+          "amount": 853138.7100000001
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Stock Price Quote expense (Megahub) (amount is negative)",
+          "amount": 106800.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Legal and professional fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Legal and professional fee",
+      "amount": 524461.7000000001,
+      "id": 9046,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Legal & Professional Fees (amount is negative)",
+          "amount": 524461.7000000001
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Auditor's remuneration",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Auditor's remuneration",
+      "amount": 130125.0,
+      "id": 9004,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Auditors' remuneration (amount is negative)",
+          "amount": 130000.0
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Audit Confirmation Fee (amount is negative)",
+          "amount": 125.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Business registration fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Business registration fee",
+      "amount": 2050.0,
+      "id": 9009,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Business registration fee (amount is negative)",
+          "amount": 2050.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Postage and courier",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Postage and courier",
+      "amount": 1502.0,
+      "id": 9067,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Postage (amount is negative)",
+          "amount": 1502.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Printing and stationery",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Printing and stationery",
+      "amount": 38325.77,
+      "id": 9069,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Stationery & Printing (amount is negative)",
+          "amount": 38325.77
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Telephone and internet charge",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Telephone and internet charge",
+      "amount": 404969.78,
+      "id": 9094,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Telephone & fax (amount is negative)",
+          "amount": 404969.78
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Subscription fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Subscription fee",
+      "amount": 49170.0,
+      "id": 9085,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Subscription fee (amount is negative)",
+          "amount": 49170.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Licence and membership fees",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Licence and membership fees",
+      "amount": 5791.33,
+      "id": 9047,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > License & Registration Fee (amount is negative)",
+          "amount": 5791.33
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Interest expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Interest expenses",
+      "amount": 37971.94,
+      "id": 9040,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Interest paid to client (amount is negative)",
+          "amount": 37971.94
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Bank charges",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Bank charges",
+      "amount": 3224.68,
+      "id": 9007,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Bank Charges (amount is negative)",
+          "amount": 3224.68
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Exchange loss",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Exchange loss",
+      "amount": 71.29,
+      "id": 9031,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Exchange Difference (amount is negative)",
+          "amount": 71.29
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Sundry expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Sundry expenses",
+      "amount": 86070.06999999999,
+      "id": 9086,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Sundry expenses (amount is negative)",
+          "amount": 1600.11
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > DDI/DCI/CPI fee (amount is negative)",
+          "amount": 228.3
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Book close scrip fee (amount is negative)",
+          "amount": 1363.5
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Trading tariff (amount is negative)",
+          "amount": 198.5
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Custody fee (amount is negative)",
+          "amount": 82679.65999999999
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Handling fees",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Handling fees",
+      "amount": 11634.09,
+      "id": 9034,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > CCASS Stock Maintenance Fee (amount is negative)",
+          "amount": 2.25
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > CCASS stock settlement fee (amount is negative)",
+          "amount": 10039.25
+        },
+        {
+          "original": "PROFIT & LOSS > OTHER OPERATING EXPENSES > Corporate Action charge - Dividend collect (amount is negative)",
+          "amount": 1592.5900000000001
+        }
+      ]
+    }
+  ]
+}

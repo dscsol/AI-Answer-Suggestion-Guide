@@ -1,0 +1,735 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "standard": "Non-current assets - Investment property at cost less accumulated depreciation and impairment",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Investment property at cost less accumulated depreciation and impairment",
+      "amount": 3787000.0,
+      "id": 2013,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Investment properties (amount is negative)",
+          "amount": 3787000.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Accumulated depreciation, Investment property at cost less accumulated depreciation and impairment",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Accumulated depreciation, Investment property at cost less accumulated depreciation and impairment",
+      "amount": -823260.85,
+      "id": 2004,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Accumulated depreciation - Investment properties (amount is positive)",
+          "amount": -823260.85
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Property, Plant and Equipment, Leasehold improvement",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Property, Plant and Equipment, Leasehold improvement",
+      "amount": 153242.0,
+      "id": 2022,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Leasehold improvement (amount is negative)",
+          "amount": 153242.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Accumulated depreciation, Leasehold improvement",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Accumulated depreciation, Leasehold improvement",
+      "amount": -139055.34,
+      "id": 2005,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Accumulated depreciation - leasehold improvement (amount is positive)",
+          "amount": -139055.34
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Property, Plant and Equipment, Motor vehicle",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Property, Plant and Equipment, Motor vehicle",
+      "amount": 1590164.0,
+      "id": 2025,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Motor vehicle (amount is negative)",
+          "amount": 1590164.0
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Accumulated depreciation, Motor vehicle",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Accumulated depreciation, Motor vehicle",
+      "amount": -482863.4,
+      "id": 2008,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Accumulated depreciation - MV (amount is positive)",
+          "amount": -482863.4
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Property, Plant and Equipment, Furniture and Fixtures",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Property, Plant and Equipment, Furniture and Fixtures",
+      "amount": 43001.98,
+      "id": 2021,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Furniture and Fixtures (amount is negative)",
+          "amount": 43001.98
+        }
+      ]
+    },
+    {
+      "standard": "Non-current assets - Accumulated depreciation, Furniture and Fixtures",
+      "standard_category": "Non-current assets",
+      "standard_parent_category": "Non-current assets",
+      "standard_field": "Accumulated depreciation, Furniture and Fixtures",
+      "amount": -35485.33,
+      "id": 2003,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Non-current assets > Accumulated depreciation - FF (amount is positive)",
+          "amount": -35485.33
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Deposit",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Deposit",
+      "amount": 3000.0,
+      "id": 3010,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Deposit (amount is negative)",
+          "amount": 3000.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Prepayment",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Prepayment",
+      "amount": 12340.0,
+      "id": 3015,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Prepayment (amount is negative)",
+          "amount": 12340.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Account receivables",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Account receivables",
+      "amount": 154408220.0,
+      "id": 3001,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Trade and other receivables (amount is negative)",
+          "amount": 154408220.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Tax recoverable",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Tax recoverable",
+      "amount": 587786.0,
+      "id": 3018,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Tax recoverable (amount is negative)",
+          "amount": 587786.0
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Amount due from holding co",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Amount due from holding co",
+      "amount": 2059239.22,
+      "id": null,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Amount due from ultimate holding co (amount is negative)",
+          "amount": 2059239.22
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Amount due from fellow subsidiary",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Amount due from fellow subsidiary",
+      "amount": 59259806.36,
+      "id": 3005,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Amount due from the fellow sub (amount is negative)",
+          "amount": 59259806.36
+        }
+      ]
+    },
+    {
+      "standard": "Current assets - Cash and bank balances",
+      "standard_category": "Current assets",
+      "standard_parent_category": "Current assets",
+      "standard_field": "Cash and bank balances",
+      "amount": 6628103.34,
+      "id": 3009,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current assets > Cash and bank balances (amount is negative)",
+          "amount": 6628103.34
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Accruals",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Accruals",
+      "amount": -2256342.54,
+      "id": 4001,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Accruals (amount is positive)",
+          "amount": -2256342.54
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Other current payables",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Other current payables",
+      "amount": -22471439.17,
+      "id": 4013,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Other payables (amount is positive)",
+          "amount": -22471439.17
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Finance lease liabilities, current",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Finance lease liabilities, current",
+      "amount": -300000.0,
+      "id": 4011,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Co-lending collaboration (amount is positive)",
+          "amount": -300000.0
+        }
+      ]
+    },
+    {
+      "standard": "Current liabilities - Amount due to a subsidiary, current",
+      "standard_category": "Current liabilities",
+      "standard_parent_category": "Current liabilities",
+      "standard_field": "Amount due to a subsidiary, current",
+      "amount": -147720864.45,
+      "id": 4006,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Current liabilities > Amount due to the fellow sub (amount is positive)",
+          "amount": -147720864.45
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Share capital",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Share capital",
+      "amount": -14392354.0,
+      "id": 6002,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > Share capital (amount is positive)",
+          "amount": -14392354.0
+        }
+      ]
+    },
+    {
+      "standard": "Share capital and reserve - Retained Earning",
+      "standard_category": "Share capital and reserve",
+      "standard_parent_category": "Share capital and reserve",
+      "standard_field": "Retained Earning",
+      "amount": -39910237.81999999,
+      "id": 6001,
+      "breakdown": [
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > (Retained profit) / acc. loss b/f (amount is positive)",
+          "amount": -35272963.15
+        },
+        {
+          "original": "BALANCE SHEET > Share capital and reserve > (Profit) / Loss for the period (amount is positive)",
+          "amount": -4637274.669999998
+        }
+      ]
+    },
+    {
+      "standard": "Income - Loan interest income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Loan interest income",
+      "amount": -16672852.18,
+      "id": 7018,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Turnover > Loan interest income (amount is positive)",
+          "amount": -14820126.0
+        },
+        {
+          "original": "PROFIT & LOSS > Turnover > Overdue and penalty interest income (amount is positive)",
+          "amount": -1852726.18
+        }
+      ]
+    },
+    {
+      "standard": "Income - Hong Kong bank interest income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Hong Kong bank interest income",
+      "amount": -42523.7,
+      "id": 7016,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Other income > Bank interest income (amount is positive)",
+          "amount": -42523.7
+        }
+      ]
+    },
+    {
+      "standard": "Income - Sundry income / Other income",
+      "standard_category": "Income",
+      "standard_parent_category": "Income",
+      "standard_field": "Sundry income / Other income",
+      "amount": -1.0,
+      "id": 7030,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Other income > Sundry income (amount is positive)",
+          "amount": -1.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Auditor's remuneration",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Auditor's remuneration",
+      "amount": 54931.21,
+      "id": 9004,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Auditor's remuneration (amount is negative)",
+          "amount": 54931.21
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Bank charges",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Bank charges",
+      "amount": 9520.0,
+      "id": 9007,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Bank charge (amount is negative)",
+          "amount": 9520.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Building management fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Building management fee",
+      "amount": 15440.0,
+      "id": 9008,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Building management fee (amount is negative)",
+          "amount": 15440.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Business registration fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Business registration fee",
+      "amount": 150.0,
+      "id": 9009,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Business registration fee (amount is negative)",
+          "amount": 150.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Consultancy fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Consultancy fee",
+      "amount": 60000.0,
+      "id": 9015,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Consultation fee (amount is negative)",
+          "amount": 60000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Commission expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Commission expenses",
+      "amount": 3486059.5,
+      "id": 9011,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Commission paid (amount is negative)",
+          "amount": 3486059.5
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Company secretarial fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Company secretarial fee",
+      "amount": 870.0,
+      "id": 9012,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Company secretarial fee (amount is negative)",
+          "amount": 870.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Depreciation for other assets",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Depreciation for other assets",
+      "amount": 420817.69,
+      "id": 9017,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Depreciation (amount is negative)",
+          "amount": 420817.69
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Electricity and water",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Electricity and water",
+      "amount": 5171.0,
+      "id": 9095,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Electricity (amount is negative)",
+          "amount": 5171.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Entertainment",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Entertainment",
+      "amount": 780963.24,
+      "id": 9030,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Entertainment (amount is negative)",
+          "amount": 780963.24
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Rent and rates",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Rent and rates",
+      "amount": 712.0,
+      "id": 9070,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Government rent and rates (amount is negative)",
+          "amount": 712.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Computer & networking",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Computer & networking",
+      "amount": 3061540.0,
+      "id": 9073,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > GFS app. & IT service fee (amount is negative)",
+          "amount": 3047500.0
+        },
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Rental of software system (amount is negative)",
+          "amount": 14040.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Legal and professional fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Legal and professional fee",
+      "amount": 37169.31,
+      "id": 9046,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Legal and professional fee (amount is negative)",
+          "amount": 37169.31
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Licence and membership fees",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Licence and membership fees",
+      "amount": 15710.0,
+      "id": 9047,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Licence fee (amount is negative)",
+          "amount": 10710.0
+        },
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Membership fee (amount is negative)",
+          "amount": 5000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Management fee",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Management fee",
+      "amount": 640000.0,
+      "id": 9052,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Management fee (amount is negative)",
+          "amount": 640000.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Mandatory provident fund contribution",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Mandatory provident fund contribution",
+      "amount": 83236.61,
+      "id": 9053,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Mandatory provident fund contributions (amount is negative)",
+          "amount": 83236.61
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Motor vehicle expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Motor vehicle expenses",
+      "amount": 87598.88,
+      "id": 9060,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Motor vehicles expense (amount is negative)",
+          "amount": 87598.88
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Postage and courier",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Postage and courier",
+      "amount": 1101.5,
+      "id": 9067,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Postage and stamp duties (amount is negative)",
+          "amount": 1101.5
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Insurance",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Insurance",
+      "amount": 7216.98,
+      "id": 9039,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Insurance (amount is negative)",
+          "amount": 7216.98
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Staff salaries",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Staff salaries",
+      "amount": 2603941.04,
+      "id": 9078,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Staff salaries (amount is negative)",
+          "amount": 2603941.04
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Printing and stationery",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Printing and stationery",
+      "amount": 6729.0,
+      "id": 9069,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Printing and stationery (amount is negative)",
+          "amount": 6729.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Repairs and maintenance",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Repairs and maintenance",
+      "amount": 10400.0,
+      "id": 9072,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Repairs and maintenance (amount is negative)",
+          "amount": 10400.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Sundry expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Sundry expenses",
+      "amount": 1656.0,
+      "id": 9086,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Sundry expense (amount is negative)",
+          "amount": 1656.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Telephone and internet charge",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Telephone and internet charge",
+      "amount": 1790.0,
+      "id": 9094,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Telephone and internet charge (amount is negative)",
+          "amount": 1790.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Travelling (oversea)",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Travelling (oversea)",
+      "amount": 11493.25,
+      "id": 9093,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Administration expenses > Oversea travelling expense (amount is negative)",
+          "amount": 11493.25
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Interest expenses",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Interest expenses",
+      "amount": 5800.0,
+      "id": 9040,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Finance cost > Co-lending interest (amount is negative)",
+          "amount": 5800.0
+        }
+      ]
+    },
+    {
+      "standard": "Expense - Tax expense (Hong Kong Profit Tax)",
+      "standard_category": "Expense",
+      "standard_parent_category": "Expense",
+      "standard_field": "Tax expense (Hong Kong Profit Tax)",
+      "amount": 668085.0,
+      "id": 9087,
+      "breakdown": [
+        {
+          "original": "PROFIT & LOSS > Taxation > Income tax expense (amount is negative)",
+          "amount": 668085.0
+        }
+      ]
+    }
+  ]
+}

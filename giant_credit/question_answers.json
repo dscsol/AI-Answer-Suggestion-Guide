@@ -1,0 +1,1150 @@
+{
+  "company": "Giant Credit Limited",
+  "source_file": "Giant credit_TB (XLSX).xlsx",
+  "answers": [
+    {
+      "section": "Company Details",
+      "question": "Did you commence business within the basis period?",
+      "field": "commenceBiz",
+      "value": "No",
+      "confidence": "medium",
+      "justification": "The TB includes balances for various assets, liabilities, and income/expenses, indicating ongoing operations rather than the first year of business."
+    },
+    {
+      "section": "Company Details",
+      "question": "Did you cease business within the basis period?",
+      "field": "ceaseBiz",
+      "value": "No",
+      "confidence": "medium",
+      "justification": "The TB does not show evidence of asset disposals or cessation-related transactions, suggesting the business is ongoing."
+    },
+    {
+      "section": "Company Details",
+      "question": "On cessation, were assets sold to an associated person?",
+      "field": "assetSold",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "There is no indication of asset disposals or sales to associated persons in the TB data."
+    },
+    {
+      "section": "Currency Conversion Rate",
+      "question": "Please provide the currency conversion rate",
+      "field": "rate",
+      "value": "1.0",
+      "confidence": "high",
+      "justification": "The TB is presented in HKD, so the default conversion rate is 1.0."
+    },
+    {
+      "section": "Q1: Sales Offshore Contracts",
+      "question": "Please provide the Company's contracts of sales and purchase which were negotiated, concluded and effected outside Hong Kong.",
+      "field": "salesOffshoreContracts",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to offshore sales or purchases are present in the TB."
+    },
+    {
+      "section": "Q2: Management or Service Fee Income",
+      "question": "Offshore-sourced income based on location of services",
+      "field": "offshoreTradingIncome",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to offshore trading income are present in the TB."
+    },
+    {
+      "section": "Q2: Management or Service Fee Income",
+      "question": "Offshore service fee income",
+      "field": "offshoreServiceFeeIncome",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to offshore service fee income are present in the TB."
+    },
+    {
+      "section": "Q2: Management or Service Fee Income",
+      "question": "Offshore other income",
+      "field": "offshoreOtherIncome",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to offshore other income are present in the TB."
+    },
+    {
+      "section": "Q3: Royalty Income",
+      "question": "Gross amount of royalty income",
+      "field": "royaltyGrossIncome",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to royalty income are present in the TB."
+    },
+    {
+      "section": "Q3: Royalty Income",
+      "question": "Amount of royalty expense",
+      "field": "royaltyExpense",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to royalty expenses are present in the TB."
+    },
+    {
+      "section": "Q4: Sundry Income",
+      "question": "Breakdown of sundry income",
+      "field": "sundryIncome",
+      "value": "1.0",
+      "confidence": "high",
+      "justification": "The TB includes 'Sundry income / Other income' with an amount of 1.0."
+    },
+    {
+      "section": "Q5: Gain on Foreign Exchange Contracts Trading",
+      "question": "Purpose of foreign exchange contracts",
+      "field": "purpose",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB does not include any accounts related to foreign exchange contracts."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "General provision - bad debts - Provision made",
+      "field": "generalProvisionDoubtfulDebts.provisionMade",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to provisions for doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "General provision - bad debts - Write-back",
+      "field": "generalProvisionDoubtfulDebts.writeBack",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to write-backs of provisions for doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "General provision - bad debts - Write-off",
+      "field": "generalProvisionDoubtfulDebts.writeOff",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to write-offs of doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "Specific provision - bad debts - Provision made",
+      "field": "specificProvisionDoubtfulDebts.provisionMade",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to specific provisions for doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "Specific provision - bad debts - Write-back",
+      "field": "specificProvisionDoubtfulDebts.writeBack",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to write-backs of specific provisions for doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "Specific provision - bad debts - Write-off",
+      "field": "specificProvisionDoubtfulDebts.writeOff",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to write-offs of specific doubtful debts are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "General provision - obsolete inventory",
+      "field": "generalProvisionObsoleteInventory.*",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to provisions for obsolete inventory are present in the TB."
+    },
+    {
+      "section": "Q7: Provision for Doubtful Debts, Obsolete Stocks, Other Expenses",
+      "question": "Specific provision - obsolete inventory",
+      "field": "specificProvisionObsoleteInventory.*",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to specific provisions for obsolete inventory are present in the TB."
+    },
+    {
+      "section": "Q8: Exchange Gain/Loss",
+      "question": "Trading transactions gain/(losses)",
+      "field": "tradingTransactions",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to FX gains or losses on trading transactions are present in the TB."
+    },
+    {
+      "section": "Q8: Exchange Gain/Loss",
+      "question": "Non-trading transactions gain/(losses)",
+      "field": "nonTradingTransactions",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to FX gains or losses on non-trading transactions are present in the TB."
+    },
+    {
+      "section": "Q8: Exchange Gain/Loss",
+      "question": "Translation of year end bank balance",
+      "field": "translationBankBalance",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to FX translation of bank balances are present in the TB."
+    },
+    {
+      "section": "Q8: Exchange Gain/Loss",
+      "question": "Translation of year end trade balance",
+      "field": "translationTradeBalance",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to FX translation of trade balances are present in the TB."
+    },
+    {
+      "section": "Q9: Interest Income",
+      "question": "Local bank deposits - Amount",
+      "field": "localBankDeposits.amount",
+      "value": "42523.7",
+      "confidence": "high",
+      "justification": "The TB includes 'Hong Kong bank interest income' with an amount of 42523.7."
+    },
+    {
+      "section": "Q9: Interest Income",
+      "question": "Overseas bank deposits - Amount",
+      "field": "overseasBankDeposits.amount",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to overseas bank interest income are present in the TB."
+    },
+    {
+      "section": "Q10: Interest Expenses on Bank Loans",
+      "question": "Detailed breakdown of interest expenses",
+      "field": "interestExpensesOnBankLoans",
+      "value": "5800.0",
+      "confidence": "high",
+      "justification": "The TB includes 'Interest expenses' with an amount of 5800.0."
+    },
+    {
+      "section": "Q11: Legal and Professional Fees",
+      "question": "Breakdown with nature",
+      "field": "legalAndProfessionalFees",
+      "value": "37169.31",
+      "confidence": "high",
+      "justification": "The TB includes 'Legal and professional fee' with an amount of 37169.31."
+    },
+    {
+      "section": "Q12: Repair, Maintenance, or Sundry Expenses",
+      "question": "Breakdown showing capital/non-deductible items",
+      "field": "repairMaintenanceOrSundryExpenses",
+      "value": "10400.0",
+      "confidence": "high",
+      "justification": "The TB includes 'Repairs and maintenance' with an amount of 10400.0."
+    },
+    {
+      "section": "Q13: Share-Based Payment",
+      "question": "Whether there is any share-based payment",
+      "field": "value",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to share-based payments are present in the TB."
+    },
+    {
+      "section": "Q14: Donations",
+      "question": "Full names of charity and amounts",
+      "field": "donations",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to donations or charitable contributions are present in the TB."
+    },
+    {
+      "section": "Q15: Additions to Fixed Assets",
+      "question": "Breakdown of additions",
+      "field": "additionsToFixedAssets",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB does not provide sufficient information to calculate additions to fixed assets."
+    },
+    {
+      "section": "Q15: Additions to Fixed Assets",
+      "question": "Category (Furniture, Computer, etc.)",
+      "field": "category",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB does not provide sufficient information to categorize additions to fixed assets."
+    },
+    {
+      "section": "Q15: Additions to Fixed Assets",
+      "question": "Description",
+      "field": "description",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB does not provide sufficient information to describe additions to fixed assets."
+    },
+    {
+      "section": "Q15: Additions to Fixed Assets",
+      "question": "Amount",
+      "field": "amount",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB does not provide sufficient information to calculate the amount of additions to fixed assets."
+    },
+    {
+      "section": "Q16",
+      "question": "Disposal of Fixed Assets",
+      "field": "disposalOfFixedAssets",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Loss/Gain on Disposal' are present in the TB data."
+    },
+    {
+      "section": "Q17",
+      "question": "Transactions with Closely Connected Non-Residents",
+      "field": "transactionsWithCloselyConnectedNonResidents",
+      "value": "N/A",
+      "confidence": "medium",
+      "justification": "While there are intercompany accounts such as 'Amount due from holding co' and 'Amount due from fellow subsidiary', no specific details about non-resident transactions are provided."
+    },
+    {
+      "section": "Q18",
+      "question": "Expenses Paid on Behalf of Related Entities",
+      "field": "expensesPaidOnBehalfOfRelatedEntitiesWithoutRecharge",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts indicating 'Expenses on Behalf' or similar are present in the TB data."
+    },
+    {
+      "section": "Q19",
+      "question": "Non-Deductible Foreign Withholding Tax Paid",
+      "field": "nonDeductibleForeignWithholdingTaxPaid",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Foreign WHT' or 'Withholding Tax Expense' are present in the TB data."
+    },
+    {
+      "section": "Q20",
+      "question": "Consultancy Fee",
+      "field": "consultancyFee",
+      "value": "60000.0",
+      "confidence": "high",
+      "justification": "The account 'Consultancy fee' with an amount of 60000.0 is explicitly listed in the TB data."
+    },
+    {
+      "section": "Q21",
+      "question": "Dividend Income",
+      "field": "dividendIncome",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Dividend Income' are present in the TB data."
+    },
+    {
+      "section": "Q22",
+      "question": "Non-Taxable Capital Items",
+      "field": "nonTaxableCapitalItems",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Capital Gain' or 'Disposal Gain' are present in the TB data."
+    },
+    {
+      "section": "Q23",
+      "question": "Commission Expense",
+      "field": "commissionExpense",
+      "value": "3486059.5",
+      "confidence": "high",
+      "justification": "The account 'Commission expenses' with an amount of 3486059.5 is explicitly listed in the TB data."
+    },
+    {
+      "section": "Q24",
+      "question": "Research and Development Expenditure",
+      "field": "researchAndDevelopmentExpenditure",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'R&D Expense', 'Research Cost', or 'Development Cost' are present in the TB data."
+    },
+    {
+      "section": "Basic Info",
+      "question": "Financial year end date",
+      "field": "endDate",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB data does not provide information about the financial year end date."
+    },
+    {
+      "section": "Companies Ordinance",
+      "question": "Considered dormant?",
+      "field": "companiesOrdinance",
+      "value": "No",
+      "confidence": "high",
+      "justification": "The TB data shows significant activity, including income and expenses, indicating the company is not dormant."
+    },
+    {
+      "section": "Amalgamation",
+      "question": "Undergo amalgamation this year?",
+      "field": "undergoAmalgamation",
+      "value": "No",
+      "confidence": "medium",
+      "justification": "No evidence of major structural changes or amalgamation is present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Offshore sourcing commission income?",
+      "field": "offshoreSourcingCommission",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to offshore commission income are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Offshore equity interest disposal gains?",
+      "field": "offshoreEquityInterest",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Gain on Disposal - Offshore' are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Offshore IP income?",
+      "field": "offshoreIPIncome",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'IP Income - Offshore' are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Offshore disposal gain?",
+      "field": "offshoreDisposalGain",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to offshore disposal gains are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Offshore brokerage commission?",
+      "field": "brokerageCommission",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Brokerage Commission - Offshore' are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Profits nature (trading/services)",
+      "field": "profitNature",
+      "value": "services",
+      "confidence": "high",
+      "justification": "The TB data includes 'Loan interest income' and other service-related income, with no evidence of trading activities."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Has IP income?",
+      "field": "hasIPIncome",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to intellectual property income are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Onshore gains on equity disposal?",
+      "field": "hasOnshoreGains",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Gain on Disposal - Equity Interest' are present in the TB data."
+    },
+    {
+      "section": "Offshore Claim",
+      "question": "Gains amount",
+      "field": "onshoreGains",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to disposal gains are present in the TB data."
+    },
+    {
+      "section": "Profit Margin Fluctuation",
+      "question": "Gross profit margin fluctuated significantly?",
+      "field": "significantFluctuation",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB data does not provide prior year figures to calculate gross profit margin fluctuation."
+    },
+    {
+      "section": "Profit Margin Fluctuation",
+      "question": "P&L items changed significantly?",
+      "field": "panlItemsChanges",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB data does not provide prior year figures to compare P&L item changes."
+    },
+    {
+      "section": "Profit Margin Fluctuation",
+      "question": "What items?",
+      "field": "panlItemsChangesDetails",
+      "value": "N/A",
+      "confidence": "low",
+      "justification": "The TB data does not provide prior year figures to identify specific items with significant changes."
+    },
+    {
+      "section": "Section 20AC - Offshore Fund Exemption",
+      "question": "Hold beneficial interest in Section 20AC exempt fund?",
+      "field": "holdBeneficialInterest",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Investment in Funds' are present in the TB data."
+    },
+    {
+      "section": "Section 20AN - Unified Fund Exemption",
+      "question": "Hold interest in Section 20AN exempt fund?",
+      "field": "holdInvestmentFundInterest",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Investment in Funds' are present in the TB data."
+    },
+    {
+      "section": "FIHV/FSPE",
+      "question": "Hold interest in FIHV/FSPE?",
+      "field": "holdFIHVFSPEInterest",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Investment - FIHV/FSPE' are present in the TB data."
+    },
+    {
+      "section": "Carried Interest",
+      "question": "Received carried interest?",
+      "field": "receivedCarriedInterest",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Carried Interest Income' are present in the TB data."
+    },
+    {
+      "section": "Carried Interest",
+      "question": "Amount",
+      "field": "carriedInterestAmount",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Carried Interest Income' are present in the TB data."
+    },
+    {
+      "section": "Notional Interest",
+      "question": "Provide interest-free loan to connected parties?",
+      "field": "provideInterestFreeLoan",
+      "value": "No",
+      "confidence": "medium",
+      "justification": "While there are intercompany accounts such as 'Amount due from holding co', no evidence of interest-free loans is present in the TB data."
+    },
+    {
+      "section": "Notional Interest",
+      "question": "Notional interest amount",
+      "field": "notionalInterestAmount",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Notional Interest Income' are present in the TB data."
+    },
+    {
+      "section": "Qualifying Debt Instruments (QDI)",
+      "question": "Derive QDI income?",
+      "field": "deriveQDIIncome",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Interest Income - QDI' are present in the TB data."
+    },
+    {
+      "section": "Qualifying Debt Instruments (QDI)",
+      "question": "Amount",
+      "field": "qdiInterestAmount",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'Interest Income - QDI' are present in the TB data."
+    },
+    {
+      "section": "MLPG Debt Instruments",
+      "question": "Derive MLPG income?",
+      "field": "deriveMLPGIncome",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'MLPG' or 'Medium/Long term Private Debt' are present in the TB data."
+    },
+    {
+      "section": "MLPG Debt Instruments",
+      "question": "Amount",
+      "field": "mlpgAmount",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts related to 'MLPG' or 'Medium/Long term Private Debt' are present in the TB data."
+    },
+    {
+      "section": "MLPG Debt Instruments",
+      "question": "Interest or profits?",
+      "field": "mlpgType",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No accounts specifically mention MLPG debt instruments in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Gains - Capital Nature",
+      "question": "Record unrealized gains (capital)?",
+      "field": "hasUnrealizedGainsCapital",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Unrealized Revaluation Gain - Investment Property' are present in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Gains - Capital Nature",
+      "question": "Amount",
+      "field": "unrealizedRevaluationGainsAmountCapital",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to unrealized revaluation gains for capital assets are found in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Gains - Capital Nature",
+      "question": "Capital asset description",
+      "field": "unrealizedRevaluationGainsAssetCapital",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No unrealized revaluation gains for capital assets are recorded in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Gains - Trading Securities",
+      "question": "Record unrealized gains (trading)?",
+      "field": "hasUnrealizedGainsTrading",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Unrealized Gain - Trading Securities' are present in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Gains - Trading Securities",
+      "question": "Amount",
+      "field": "unrealizedRevaluationGainsAmountTrading",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to unrealized revaluation gains for trading securities are found in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Losses - Trading Securities",
+      "question": "Record unrealized losses (trading)?",
+      "field": "hasUnrealizedLossesTrading",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Unrealized Loss - Trading Securities' are present in the TB data."
+    },
+    {
+      "section": "Unrealized Revaluation Losses - Trading Securities",
+      "question": "Amount",
+      "field": "unrealizedRevaluationLossAmountTrading",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to unrealized revaluation losses for trading securities are found in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Capital Nature",
+      "question": "Record unrealized exchange G/L (capital)?",
+      "field": "hasUnrealizedExchangeCapital",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'FX Unrealized - Capital Assets' are present in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Capital Nature",
+      "question": "Amount",
+      "field": "unrealizedExchangeAmountCapital",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to unrealized exchange gains or losses for capital assets are found in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Capital Nature",
+      "question": "Gains or losses?",
+      "field": "exchangeGainOrLossCapital",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No unrealized exchange gains or losses for capital assets are recorded in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Revenue Nature",
+      "question": "Record unrealized exchange G/L (revenue)?",
+      "field": "hasUnrealizedExchangeRevenue",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'FX Unrealized - Operating' are present in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Revenue Nature",
+      "question": "Amount",
+      "field": "unrealizedExchangeAmountRevenue",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts related to unrealized exchange gains or losses for revenue assets are found in the TB data."
+    },
+    {
+      "section": "Unrealized Exchange Gains/Losses - Revenue Nature",
+      "question": "Gains or losses?",
+      "field": "exchangeGainOrLossRevenue",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No unrealized exchange gains or losses for revenue assets are recorded in the TB data."
+    },
+    {
+      "section": "Research and Development Expenditure",
+      "question": "Incur R&D expenditure?",
+      "field": "incurRND",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'R&D Expense' or 'Research Cost' are present in the TB data."
+    },
+    {
+      "section": "Research and Development Expenditure",
+      "question": "Amount",
+      "field": "rndAmount",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No R&D expenses are recorded in the TB data."
+    },
+    {
+      "section": "Leases (HKFRS 16)",
+      "question": "Incur amortisation & interest on leases?",
+      "field": "incurLeaseExpense",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Amortisation - ROU Asset' or 'Interest - Lease Liability' are present in the TB data."
+    },
+    {
+      "section": "Leases (HKFRS 16)",
+      "question": "Amortisation amount",
+      "field": "amortisation",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No amortisation expenses for leases are recorded in the TB data."
+    },
+    {
+      "section": "Leases (HKFRS 16)",
+      "question": "Interest expense",
+      "field": "leaseInterest",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No lease interest expenses are recorded in the TB data."
+    },
+    {
+      "section": "Leases (HKFRS 16)",
+      "question": "Recorded impairment loss?",
+      "field": "impairmentLoss",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Impairment - ROU Asset' are present in the TB data."
+    },
+    {
+      "section": "Obsolete Stock Provision",
+      "question": "Make provision for obsolete stock?",
+      "field": "makeObsoleteStockProvision",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Provision for Obsolete Inventory' are present in the TB data."
+    },
+    {
+      "section": "Obsolete Stock Provision",
+      "question": "Amount",
+      "field": "provisionObsoleteStock",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No provision for obsolete stock is recorded in the TB data."
+    },
+    {
+      "section": "Provision for Outstanding Debts",
+      "question": "Make provision for debts?",
+      "field": "makeDebtProvision",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Provision for Doubtful Debts' are present in the TB data."
+    },
+    {
+      "section": "Provision for Outstanding Debts",
+      "question": "Any specific provision?",
+      "field": "hasSpecificProvision",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Specific Provision' are present in the TB data."
+    },
+    {
+      "section": "Provision for Outstanding Debts",
+      "question": "Specific provision amount",
+      "field": "specificProvisionDebt",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No specific provision for debts is recorded in the TB data."
+    },
+    {
+      "section": "Provision for Outstanding Debts",
+      "question": "Any general provision?",
+      "field": "hasGeneralProvision",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'General Provision' are present in the TB data."
+    },
+    {
+      "section": "Provision for Outstanding Debts",
+      "question": "General provision amount",
+      "field": "generalProvisionDebt",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No general provision for debts is recorded in the TB data."
+    },
+    {
+      "section": "Impairment Loss - HKFRS 9",
+      "question": "Recognize impairment under HKFRS 9?",
+      "field": "recognizeImpairmentHKFRS9",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Impairment Loss - Debt' are present in the TB data."
+    },
+    {
+      "section": "Impairment Loss - HKFRS 9",
+      "question": "Amount",
+      "field": "impairmentAmount",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No impairment loss under HKFRS 9 is recorded in the TB data."
+    },
+    {
+      "section": "Reinstatement Cost",
+      "question": "Pursue deduction on reinstatement cost?",
+      "field": "pursueReinstatement",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Provision for Reinstatement' are present in the TB data."
+    },
+    {
+      "section": "Reinstatement Cost",
+      "question": "Amount",
+      "field": "reinstatementAmount",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No reinstatement costs are recorded in the TB data."
+    },
+    {
+      "section": "Sundry Cost",
+      "question": "Pursue deduction on sundry cost?",
+      "field": "pursueSundry",
+      "value": "Yes",
+      "confidence": "high",
+      "justification": "The account 'Sundry expenses' with an amount of 1656.0 is present in the TB data."
+    },
+    {
+      "section": "Deductible Interest Expense",
+      "question": "Incur deductible interest expense?",
+      "field": "incurInterestExpense",
+      "value": "Yes",
+      "confidence": "high",
+      "justification": "The account 'Interest expenses' with an amount of 5800.0 is present in the TB data."
+    },
+    {
+      "section": "Deductible Interest Expense",
+      "question": "Dividends paid during year?",
+      "field": "dividendsPaid",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts related to 'Dividends Paid' are present in the TB data."
+    },
+    {
+      "section": "Deductible Interest Expense",
+      "question": "Dividend amount",
+      "field": "dividend",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No dividend payments are recorded in the TB data."
+    },
+    {
+      "section": "Deductible Interest Expense",
+      "question": "Interest expense amount",
+      "field": "interestExpense",
+      "value": "5800.0",
+      "confidence": "high",
+      "justification": "The account 'Interest expenses' under the category 'Expense' shows an amount of 5800.0."
+    },
+    {
+      "section": "Deductible Interest Expense",
+      "question": "Has non-taxable assets?",
+      "field": "hasNonTaxableAssets",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No accounts in the TB indicate non-taxable assets such as shares held purely for capital appreciation without income. Investment property is taxable if it generates rental income."
+    },
+    {
+      "section": "Interest-Free Loan - HKFRS 9",
+      "question": "Obtain interest-free loan with notional interest?",
+      "field": "obtainInterestFreeLoan",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Notional Interest Expense' or similar exists in the TB."
+    },
+    {
+      "section": "Interest-Free Loan - HKFRS 9",
+      "question": "Notional interest amount",
+      "field": "notionalInterestExpense",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Notional Interest Expense' or similar exists in the TB."
+    },
+    {
+      "section": "Share-Based Payments",
+      "question": "Make employee share-based payments?",
+      "field": "makeShareBasedPayment",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Share-based Payment Expense' or 'Stock Option Expense' exists in the TB."
+    },
+    {
+      "section": "Share-Based Payments",
+      "question": "Amount",
+      "field": "sharePayment",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Share-based Payment Expense' or 'Stock Option Expense' exists in the TB."
+    },
+    {
+      "section": "Share-Based Payments",
+      "question": "Recharged from parent?",
+      "field": "rechargedFromParent",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Recharge - Share-based Payment' exists in the TB."
+    },
+    {
+      "section": "Share-Based Payments",
+      "question": "Recharge amount",
+      "field": "recharge",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Recharge - Share-based Payment' exists in the TB."
+    },
+    {
+      "section": "Intellectual Property Payments",
+      "question": "Pay IP to non-resident?",
+      "field": "payIPToNonResident",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Royalty Expense - Overseas' or 'License Fee - Overseas' exists in the TB."
+    },
+    {
+      "section": "Intellectual Property Payments",
+      "question": "IP payments paid to?",
+      "field": "ipPaymentTo",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Royalty Expense - Overseas' or 'License Fee - Overseas' exists in the TB."
+    },
+    {
+      "section": "Intellectual Property Payments",
+      "question": "IP description",
+      "field": "ip",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Royalty Expense - Overseas' or 'License Fee - Overseas' exists in the TB."
+    },
+    {
+      "section": "Local Individual Payment",
+      "question": "Make payment to local individual (non-employee)?",
+      "field": "makeLocalIndividualPayment",
+      "value": "No",
+      "confidence": "high",
+      "justification": "The 'Consultancy fee' account does not specify payment to a local individual. No other accounts indicate payments to local individuals."
+    },
+    {
+      "section": "Local Individual Payment",
+      "question": "Individual acted as?",
+      "field": "individualActAs",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account specifies payment to a local individual, so no role can be identified."
+    },
+    {
+      "section": "Non-Resident Entertainer Payment",
+      "question": "Make payment to non-resident entertainers?",
+      "field": "makeNonResidentEntertainerPayment",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Entertainment Expense - Non-resident' exists in the TB."
+    },
+    {
+      "section": "Non-Resident Professional Services Payment",
+      "question": "Make payment to non-resident for services in HK?",
+      "field": "makeNonResidentProfessionalPayment",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Professional Fees - Non-resident' exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Recognize royalties/license as intangible asset?",
+      "field": "recognizeHKAS38",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - License' or 'Amortisation - Intangible' exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "IP description",
+      "field": "hkas38Ip",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - License' or 'Amortisation - Intangible' exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Amount",
+      "field": "hkas38IpFee",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - License' or 'Amortisation - Intangible' exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Capitalized upfront payment?",
+      "field": "capitalizedUpfront",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - License' or similar exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Upfront amount",
+      "field": "capitalizeAmountUpfront",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - License' or similar exists in the TB."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Capitalized advance royalties?",
+      "field": "capitalizedAdvance",
+      "value": "No",
+      "confidence": "high",
+      "justification": "The 'Prepayment' account is generic and does not specify advance royalties or prepaid license fees."
+    },
+    {
+      "section": "HKAS 38 - Royalties and License Fees",
+      "question": "Advance amount",
+      "field": "capitalizeAmountAdvance",
+      "value": "0",
+      "confidence": "high",
+      "justification": "The 'Prepayment' account is generic and does not specify advance royalties or prepaid license fees."
+    },
+    {
+      "section": "Patent/Know-How Rights",
+      "question": "Purchase patent/know-how rights?",
+      "field": "purchasePatentRights",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - Patent' or 'Patent Rights' exists in the TB."
+    },
+    {
+      "section": "Patent/Know-How Rights",
+      "question": "Cost",
+      "field": "patentRightCost",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - Patent' or 'Patent Rights' exists in the TB."
+    },
+    {
+      "section": "Specified Intellectual Property Rights",
+      "question": "Purchase specified IP rights?",
+      "field": "purchaseSpecifiedRights",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - Copyright' or 'Trademark' exists in the TB."
+    },
+    {
+      "section": "Specified Intellectual Property Rights",
+      "question": "Cost",
+      "field": "specifiedRightCost",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Intangible Assets - Copyright' or 'Trademark' exists in the TB."
+    },
+    {
+      "section": "Non-Capitalized Fixed Assets",
+      "question": "Any non-capitalized fixed assets?",
+      "field": "hasNonCapitalFixedAsset",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account indicates non-capitalized fixed assets below a specific threshold."
+    },
+    {
+      "section": "Environmental Protection Expenditure",
+      "question": "Incur environmental expenditure?",
+      "field": "incurEnvironmentalExpenditure",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Fixed Assets - Environmental' or 'EV Purchase' exists in the TB."
+    },
+    {
+      "section": "Environmental Protection Expenditure",
+      "question": "Amount",
+      "field": "environmentalExp",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Fixed Assets - Environmental' or 'EV Purchase' exists in the TB."
+    },
+    {
+      "section": "Non-Resident Associated Persons",
+      "question": "Transactions with non-resident associated persons?",
+      "field": "transactionsWithNonResident",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Intercompany - Overseas' or similar exists in the TB."
+    },
+    {
+      "section": "Long Outstanding Account Receivable",
+      "question": "Long outstanding AR from related party?",
+      "field": "hasLongOutstandingAR",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'AR - Related Party' exists in the TB."
+    },
+    {
+      "section": "Long Outstanding Account Receivable",
+      "question": "Amount",
+      "field": "arAmount",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'AR - Related Party' exists in the TB."
+    },
+    {
+      "section": "Double Taxation Agreement",
+      "question": "Entitled to foreign tax credit?",
+      "field": "entitledForeignTaxCredit",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Foreign Tax Paid' exists in the TB."
+    },
+    {
+      "section": "Double Taxation Agreement",
+      "question": "Foreign tax type (CIT/WHT)?",
+      "field": "foreignTaxType",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No account labeled 'Foreign Tax Paid' exists in the TB."
+    },
+    {
+      "section": "Double Taxation Agreement",
+      "question": "Company pay WHT?",
+      "field": "companyPayWHT",
+      "value": "No",
+      "confidence": "high",
+      "justification": "No account labeled 'Withholding Tax Paid' exists in the TB."
+    },
+    {
+      "section": "Treaty Benefit",
+      "question": "Income amount",
+      "field": "treatyBenefitAmount",
+      "value": "0",
+      "confidence": "high",
+      "justification": "No accounts in the TB data explicitly indicate offshore income. All income accounts (e.g., 'Loan interest income', 'Hong Kong bank interest income') appear to be domestic."
+    },
+    {
+      "section": "Treaty Benefit",
+      "question": "Income type",
+      "field": "incomeType",
+      "value": "N/A",
+      "confidence": "high",
+      "justification": "No offshore income accounts are present in the TB data, so no income type can be identified."
+    },
+    {
+      "section": "FIHV/FSPE/ESF Office",
+      "question": "Assessable profits",
+      "field": "familyProfit",
+      "value": "-11809188.68",
+      "confidence": "high",
+      "justification": "Net profit is calculated by summing all income and expense amounts. Total income: -16672852.18 (Loan interest income) - 42523.7 (Hong Kong bank interest income) - 1.0 (Sundry income) = -16715376.88. Total expenses: 54931.21 (Auditor's remuneration) + 9520.0 (Bank charges) + 15440.0 (Building management fee) + ... + 668085.0 (Tax expense) = 4906188.2. Net profit = -16715376.88 + 4906188.2 = -11809188.68."
+    }
+  ]
+}
